@@ -1,0 +1,186 @@
+{
+  "games" : [ {
+    "gameName" : "Blood Bowl",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Assistant Coach",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 13,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cheerleader",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 48,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Apothecary",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 50000.0,
+        "unitID" : 73,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Re-roll",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 60000.0,
+        "unitID" : 109,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ogre",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 140000.0,
+        "unitID" : 175,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Retainer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 70000.0,
+        "unitID" : 176,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Thrower",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 70000.0,
+        "unitID" : 177,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Body Guard",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 90000.0,
+        "unitID" : 178,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Princeling",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 110000.0,
+        "unitID" : 179,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grak & Crumbleberry",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 210000.0,
+        "unitID" : 269,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Morg n' Thorg",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 430000.0,
+        "unitID" : 327,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Helmut Wulf",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 110000.0,
+        "unitID" : 394,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Puggy Baconbreath",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 140000.0,
+        "unitID" : 395,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Heinrich von Duisgart",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 140000.0,
+        "unitID" : 396,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Karla von Kill",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 220000.0,
+        "unitID" : 397,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mighty Zug",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 260000.0,
+        "unitID" : 398,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Zara the Slayer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 270000.0,
+        "unitID" : 399,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Griff Oberwald",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 320000.0,
+        "unitID" : 400,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Master of Balistics",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 30000.0,
+        "unitID" : 401,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Human Nobility Teams",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Players", "Star Players", "Coaching Staff" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

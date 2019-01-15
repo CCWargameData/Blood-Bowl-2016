@@ -1,0 +1,177 @@
+{
+  "games" : [ {
+    "gameName" : "Blood Bowl",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Assistant Coach",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 22,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cheerleader",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 39,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Apothecary",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 50000.0,
+        "unitID" : 82,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Re-roll",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 50000.0,
+        "unitID" : 118,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Lineman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 60000.0,
+        "unitID" : 215,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Thrower",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 70000.0,
+        "unitID" : 216,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Brute",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 80000.0,
+        "unitID" : 217,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Blitzer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 90000.0,
+        "unitID" : 218,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Swamp Troll",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 130000.0,
+        "unitID" : 219,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grak & Crumbleberry",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 210000.0,
+        "unitID" : 278,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Morg n' Thorg",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 430000.0,
+        "unitID" : 334,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Scrappa Sorehead",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 150000.0,
+        "unitID" : 438,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Bomber Dribblesnot",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 60000.0,
+        "unitID" : 439,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ugroth Bolgrot",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 100000.0,
+        "unitID" : 445,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grut Gitgobbla",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 200000.0,
+        "unitID" : 446,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ripper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 270000.0,
+        "unitID" : 447,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Varag Ghoul-Chewer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 290000.0,
+        "unitID" : 448,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Whaaagh! Drummer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 50000.0,
+        "unitID" : 449,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Savage Orc Teams",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Players", "Star Players", "Coaching Staff" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

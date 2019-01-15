@@ -1,0 +1,159 @@
+{
+  "games" : [ {
+    "gameName" : "Blood Bowl",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Assistant Coach",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 5,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cheerleader",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 56,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Apothecary",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 50000.0,
+        "unitID" : 65,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Re-roll",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 60000.0,
+        "unitID" : 101,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Lineman",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 70000.0,
+        "unitID" : 137,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Runner",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 80000.0,
+        "unitID" : 138,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Assassin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 90000.0,
+        "unitID" : 139,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Blitzer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 100000.0,
+        "unitID" : 140,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Witch Elf",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 110000.0,
+        "unitID" : 142,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grak & Crumbleberry",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 210000.0,
+        "unitID" : 261,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Eldril Sidewinder",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 200000.0,
+        "unitID" : 314,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Horkon Heartripper",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 210000.0,
+        "unitID" : 315,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ithaca Benoin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 220000.0,
+        "unitID" : 316,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Roxanna Darknail",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 250000.0,
+        "unitID" : 317,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hubris Rakarth",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 260000.0,
+        "unitID" : 318,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Morg n' Thorg",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 430000.0,
+        "unitID" : 319,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Dark Elf Teams",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Players", "Star Players", "Coaching Staff" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

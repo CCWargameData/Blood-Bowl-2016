@@ -1,0 +1,150 @@
+{
+  "games" : [ {
+    "gameName" : "Blood Bowl",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Assistant Coach",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 14,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cheerleader",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 47,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Apothecary",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 50000.0,
+        "unitID" : 74,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Re-roll",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 70000.0,
+        "unitID" : 110,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Skeleton",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 40000.0,
+        "unitID" : 180,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Thro-Ras",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 70000.0,
+        "unitID" : 182,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Blitz-Ras",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 90000.0,
+        "unitID" : 183,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Tomb Guardians",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 100000.0,
+        "unitID" : 184,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grak & Crumbleberry",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 210000.0,
+        "unitID" : 270,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Sinnedbad",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 80000.0,
+        "unitID" : 402,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hack Enslash",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 120000.0,
+        "unitID" : 403,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Humerus Carpal",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 130000.0,
+        "unitID" : 404,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ithaca Benoin",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 220000.0,
+        "unitID" : 405,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Setekh",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 220000.0,
+        "unitID" : 406,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ramtut",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 380000.0,
+        "unitID" : 407,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Khemri Teams",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Players", "Star Players", "Coaching Staff" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

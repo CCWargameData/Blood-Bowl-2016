@@ -1,0 +1,114 @@
+{
+  "games" : [ {
+    "gameName" : "Blood Bowl",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Assistant Coach",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 15,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cheerleader",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 10000.0,
+        "unitID" : 46,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Apothecary",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 50000.0,
+        "unitID" : 75,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Re-roll",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Coaching Staff",
+        "unitCost" : 70000.0,
+        "unitID" : 111,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Pit Fighter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 60000.0,
+        "unitID" : 185,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Bloodletter",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 80000.0,
+        "unitID" : 186,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Khorne Herald",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 90000.0,
+        "unitID" : 187,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Blood Thirster",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Players",
+        "unitCost" : 180000.0,
+        "unitID" : 188,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grak & Crumbleberry",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 210000.0,
+        "unitID" : 271,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Morg n' Thorg",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 430000.0,
+        "unitID" : 328,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Grashnak Blackhoof",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Star Players",
+        "unitCost" : 310000.0,
+        "unitID" : 408,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Khorne Teams",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Players", "Star Players", "Coaching Staff" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}
