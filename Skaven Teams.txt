@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 23,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 38,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 83,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 60000.0,
         "unitID" : 119,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lineman",
@@ -47,6 +51,7 @@
         "unitCost" : 50000.0,
         "unitID" : 220,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thrower",
@@ -56,6 +61,7 @@
         "unitCost" : 70000.0,
         "unitID" : 221,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gutter Runner",
@@ -65,6 +71,7 @@
         "unitCost" : 80000.0,
         "unitID" : 222,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blitzer",
@@ -74,6 +81,7 @@
         "unitCost" : 90000.0,
         "unitID" : 223,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rat Ogre",
@@ -83,6 +91,7 @@
         "unitCost" : 150000.0,
         "unitID" : 224,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -92,6 +101,7 @@
         "unitCost" : 210000.0,
         "unitID" : 279,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -101,6 +111,7 @@
         "unitCost" : 430000.0,
         "unitID" : 335,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Fezglitch",
@@ -110,6 +121,7 @@
         "unitCost" : 100000.0,
         "unitID" : 451,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Kreek Rustouger",
@@ -119,6 +131,7 @@
         "unitCost" : 130000.0,
         "unitID" : 452,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Skitter Stab-Stab",
@@ -128,6 +141,7 @@
         "unitCost" : 160000.0,
         "unitID" : 453,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Glart Smashrip",
@@ -137,6 +151,7 @@
         "unitCost" : 190000.0,
         "unitID" : 454,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hakflem Skuttlespike",
@@ -146,6 +161,7 @@
         "unitCost" : 200000.0,
         "unitID" : 455,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Headsplitter",
@@ -155,6 +171,7 @@
         "unitCost" : 340000.0,
         "unitID" : 456,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

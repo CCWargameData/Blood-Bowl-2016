@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 9,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 52,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 69,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 60000.0,
         "unitID" : 105,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Goblin",
@@ -47,6 +51,7 @@
         "unitCost" : 40000.0,
         "unitID" : 156,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bomma",
@@ -56,6 +61,7 @@
         "unitCost" : 40000.0,
         "unitID" : 157,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Looney",
@@ -65,6 +71,7 @@
         "unitCost" : 40000.0,
         "unitID" : 158,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Fanatic",
@@ -74,6 +81,7 @@
         "unitCost" : 70000.0,
         "unitID" : 159,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Doom Diver",
@@ -83,6 +91,7 @@
         "unitCost" : 60000.0,
         "unitID" : 160,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Pogoer",
@@ -92,6 +101,7 @@
         "unitCost" : 70000.0,
         "unitID" : 161,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "'Ooligan",
@@ -101,6 +111,7 @@
         "unitCost" : 70000.0,
         "unitID" : 162,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Troll",
@@ -110,6 +121,7 @@
         "unitCost" : 110000.0,
         "unitID" : 163,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -119,6 +131,7 @@
         "unitCost" : 210000.0,
         "unitID" : 265,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -128,6 +141,7 @@
         "unitCost" : 430000.0,
         "unitID" : 323,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Nobbla Blackwart",
@@ -137,6 +151,7 @@
         "unitCost" : 130000.0,
         "unitID" : 365,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Fungus the Loon",
@@ -146,6 +161,7 @@
         "unitCost" : 80000.0,
         "unitID" : 366,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bomber Dribblesnot",
@@ -155,6 +171,7 @@
         "unitCost" : 60000.0,
         "unitID" : 367,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bribe",
@@ -164,6 +181,7 @@
         "unitCost" : 50000.0,
         "unitID" : 368,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Scrappa Sorehead",
@@ -173,6 +191,7 @@
         "unitCost" : 150000.0,
         "unitID" : 369,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Madcap Miggz",
@@ -182,6 +201,7 @@
         "unitCost" : 170000.0,
         "unitID" : 370,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ripper",
@@ -191,6 +211,7 @@
         "unitCost" : 270000.0,
         "unitID" : 371,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

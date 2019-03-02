@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 28,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 33,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 88,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 70000.0,
         "unitID" : 124,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Human Renegade",
@@ -47,6 +51,7 @@
         "unitCost" : 50000.0,
         "unitID" : 242,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Goblin Renegade",
@@ -56,6 +61,7 @@
         "unitCost" : 40000.0,
         "unitID" : 243,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Orc Renegade",
@@ -65,6 +71,7 @@
         "unitCost" : 50000.0,
         "unitID" : 244,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Skaven Renegade",
@@ -74,6 +81,7 @@
         "unitCost" : 50000.0,
         "unitID" : 245,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dark Elf Renegade",
@@ -83,6 +91,7 @@
         "unitCost" : 70000.0,
         "unitID" : 246,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Troll",
@@ -92,6 +101,7 @@
         "unitCost" : 110000.0,
         "unitID" : 247,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Ogre",
@@ -101,6 +111,7 @@
         "unitCost" : 140000.0,
         "unitID" : 248,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Minotaur",
@@ -110,6 +121,7 @@
         "unitCost" : 150000.0,
         "unitID" : 249,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -119,6 +131,7 @@
         "unitCost" : 210000.0,
         "unitID" : 284,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -128,6 +141,7 @@
         "unitCost" : 430000.0,
         "unitID" : 339,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bomber Driblesnot",
@@ -137,6 +151,7 @@
         "unitCost" : 60000.0,
         "unitID" : 481,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zzharg Madeye",
@@ -146,6 +161,7 @@
         "unitCost" : 60000.0,
         "unitID" : 482,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ugroth Bolgrot",
@@ -155,6 +171,7 @@
         "unitCost" : 100000.0,
         "unitID" : 483,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Helmut Wulf",
@@ -164,6 +181,7 @@
         "unitCost" : 110000.0,
         "unitID" : 484,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Crazy Igor",
@@ -173,6 +191,7 @@
         "unitCost" : 130000.0,
         "unitID" : 485,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lewdgrip Whiparm",
@@ -182,6 +201,7 @@
         "unitCost" : 150000.0,
         "unitID" : 486,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Guffle Pushmaw",
@@ -191,6 +211,7 @@
         "unitCost" : 210000.0,
         "unitID" : 487,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

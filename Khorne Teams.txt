@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 15,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 46,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 75,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 70000.0,
         "unitID" : 111,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Pit Fighter",
@@ -47,6 +51,7 @@
         "unitCost" : 60000.0,
         "unitID" : 185,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bloodletter",
@@ -56,6 +61,7 @@
         "unitCost" : 80000.0,
         "unitID" : 186,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khorne Herald",
@@ -65,6 +71,7 @@
         "unitCost" : 90000.0,
         "unitID" : 187,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blood Thirster",
@@ -74,6 +81,7 @@
         "unitCost" : 180000.0,
         "unitID" : 188,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -83,6 +91,7 @@
         "unitCost" : 210000.0,
         "unitID" : 271,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -92,6 +101,7 @@
         "unitCost" : 430000.0,
         "unitID" : 328,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grashnak Blackhoof",
@@ -101,6 +111,7 @@
         "unitCost" : 310000.0,
         "unitID" : 408,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

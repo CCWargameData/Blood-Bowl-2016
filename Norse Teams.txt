@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 18,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 43,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 78,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 60000.0,
         "unitID" : 114,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lineman",
@@ -47,6 +51,7 @@
         "unitCost" : 50000.0,
         "unitID" : 197,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thrower",
@@ -56,6 +61,7 @@
         "unitCost" : 70000.0,
         "unitID" : 198,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Runner",
@@ -65,6 +71,7 @@
         "unitCost" : 90000.0,
         "unitID" : 199,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Berserker",
@@ -74,6 +81,7 @@
         "unitCost" : 90000.0,
         "unitID" : 200,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ulfwerener",
@@ -83,6 +91,7 @@
         "unitCost" : 110000.0,
         "unitID" : 201,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Yhetee",
@@ -92,6 +101,7 @@
         "unitCost" : 140000.0,
         "unitID" : 202,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -101,6 +111,7 @@
         "unitCost" : 210000.0,
         "unitID" : 274,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -110,6 +121,7 @@
         "unitCost" : 430000.0,
         "unitID" : 330,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Boomer Eziasson",
@@ -119,6 +131,7 @@
         "unitCost" : 60000.0,
         "unitID" : 420,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Helmut Wulf",
@@ -128,6 +141,7 @@
         "unitCost" : 110000.0,
         "unitID" : 421,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wilhelm Chaney",
@@ -137,6 +151,7 @@
         "unitCost" : 240000.0,
         "unitID" : 422,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zara the Slayer",
@@ -146,6 +161,7 @@
         "unitCost" : 270000.0,
         "unitID" : 423,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Icepelt Hammerblow",
@@ -155,6 +171,7 @@
         "unitCost" : 330000.0,
         "unitID" : 424,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

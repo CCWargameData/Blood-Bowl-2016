@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 14,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 47,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 74,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 70000.0,
         "unitID" : 110,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Skeleton",
@@ -47,6 +51,7 @@
         "unitCost" : 40000.0,
         "unitID" : 180,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thro-Ras",
@@ -56,6 +61,7 @@
         "unitCost" : 70000.0,
         "unitID" : 182,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blitz-Ras",
@@ -65,6 +71,7 @@
         "unitCost" : 90000.0,
         "unitID" : 183,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tomb Guardians",
@@ -74,6 +81,7 @@
         "unitCost" : 100000.0,
         "unitID" : 184,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -83,6 +91,7 @@
         "unitCost" : 210000.0,
         "unitID" : 270,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Sinnedbad",
@@ -92,6 +101,7 @@
         "unitCost" : 80000.0,
         "unitID" : 402,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hack Enslash",
@@ -101,6 +111,7 @@
         "unitCost" : 120000.0,
         "unitID" : 403,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Humerus Carpal",
@@ -110,6 +121,7 @@
         "unitCost" : 130000.0,
         "unitID" : 404,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ithaca Benoin",
@@ -119,6 +131,7 @@
         "unitCost" : 220000.0,
         "unitID" : 405,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Setekh",
@@ -128,6 +141,7 @@
         "unitCost" : 220000.0,
         "unitID" : 406,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ramtut",
@@ -137,6 +151,7 @@
         "unitCost" : 380000.0,
         "unitID" : 407,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

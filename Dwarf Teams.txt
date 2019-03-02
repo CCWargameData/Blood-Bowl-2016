@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 6,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 55,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 66,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 50000.0,
         "unitID" : 102,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blocker",
@@ -47,6 +51,7 @@
         "unitCost" : 70000.0,
         "unitID" : 143,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Runner",
@@ -56,6 +61,7 @@
         "unitCost" : 80000.0,
         "unitID" : 144,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blitzer",
@@ -65,6 +71,7 @@
         "unitCost" : 80000.0,
         "unitID" : 145,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Troll Slayer",
@@ -74,6 +81,7 @@
         "unitCost" : 90000.0,
         "unitID" : 146,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Deathroller",
@@ -83,6 +91,7 @@
         "unitCost" : 160000.0,
         "unitID" : 147,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -92,6 +101,7 @@
         "unitCost" : 210000.0,
         "unitID" : 262,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -101,6 +111,7 @@
         "unitCost" : 430000.0,
         "unitID" : 320,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Barik Farblast",
@@ -110,6 +121,7 @@
         "unitCost" : 60000.0,
         "unitID" : 342,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Boomer Eziasson",
@@ -119,6 +131,7 @@
         "unitCost" : 60000.0,
         "unitID" : 343,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Flint Churnblade",
@@ -128,6 +141,7 @@
         "unitCost" : 130000.0,
         "unitID" : 344,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grim Ironjaw",
@@ -137,6 +151,7 @@
         "unitCost" : 220000.0,
         "unitID" : 345,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grobrik Orcbiter",
@@ -146,6 +161,7 @@
         "unitCost" : 250000.0,
         "unitID" : 346,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zara the Slayer",
@@ -155,6 +171,7 @@
         "unitCost" : 270000.0,
         "unitID" : 347,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 10,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 51,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 70,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 60000.0,
         "unitID" : 106,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Halfling",
@@ -47,6 +51,7 @@
         "unitCost" : 30000.0,
         "unitID" : 164,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Treeman",
@@ -56,6 +61,7 @@
         "unitCost" : 120000.0,
         "unitID" : 165,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -65,6 +71,7 @@
         "unitCost" : 210000.0,
         "unitID" : 266,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -74,6 +81,7 @@
         "unitCost" : 430000.0,
         "unitID" : 324,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Puggy Baconbreath",
@@ -83,6 +91,7 @@
         "unitCost" : 140000.0,
         "unitID" : 372,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Willow Rosebark",
@@ -92,6 +101,7 @@
         "unitCost" : 150000.0,
         "unitID" : 373,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Karla von Kill",
@@ -101,6 +111,7 @@
         "unitCost" : 220000.0,
         "unitID" : 374,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Deeproot Strongbranch",
@@ -110,6 +121,7 @@
         "unitCost" : 300000.0,
         "unitID" : 375,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bertha Bigfist",
@@ -119,6 +131,7 @@
         "unitCost" : 290000.0,
         "unitID" : 376,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zara the Slayer",
@@ -128,6 +141,7 @@
         "unitCost" : 270000.0,
         "unitID" : 377,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Halfling Master Chef",
@@ -137,6 +151,7 @@
         "unitCost" : 150000.0,
         "unitID" : 378,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

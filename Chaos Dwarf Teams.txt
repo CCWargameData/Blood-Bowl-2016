@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 4,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 57,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 64,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 70000.0,
         "unitID" : 100,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hobgoblin Runner",
@@ -47,6 +51,7 @@
         "unitCost" : 40000.0,
         "unitID" : 133,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Dwarf Blocker",
@@ -56,6 +61,7 @@
         "unitCost" : 70000.0,
         "unitID" : 134,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bull Centaur Blitzer",
@@ -65,6 +71,7 @@
         "unitCost" : 130000.0,
         "unitID" : 135,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Enslaved Minotaur",
@@ -74,6 +81,7 @@
         "unitCost" : 150000.0,
         "unitID" : 136,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -83,6 +91,7 @@
         "unitCost" : 210000.0,
         "unitID" : 260,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zzharg Madeye",
@@ -92,6 +101,7 @@
         "unitCost" : 90000.0,
         "unitID" : 308,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Nobbla Blackwart",
@@ -101,6 +111,7 @@
         "unitCost" : 130000.0,
         "unitID" : 309,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rashnak Backstabber",
@@ -110,6 +121,7 @@
         "unitCost" : 200000.0,
         "unitID" : 310,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grashnak Blackhoof",
@@ -119,6 +131,7 @@
         "unitCost" : 310000.0,
         "unitID" : 311,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hthark the Unstoppable",
@@ -128,6 +141,7 @@
         "unitCost" : 330000.0,
         "unitID" : 312,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -137,6 +151,7 @@
         "unitCost" : 430000.0,
         "unitID" : 313,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

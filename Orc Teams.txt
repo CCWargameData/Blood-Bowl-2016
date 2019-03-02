@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 21,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 40,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 81,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 60000.0,
         "unitID" : 117,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lineman",
@@ -47,6 +51,7 @@
         "unitCost" : 50000.0,
         "unitID" : 209,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Goblin",
@@ -56,6 +61,7 @@
         "unitCost" : 40000.0,
         "unitID" : 210,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thrower",
@@ -65,6 +71,7 @@
         "unitCost" : 70000.0,
         "unitID" : 211,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Black Orc",
@@ -74,6 +81,7 @@
         "unitCost" : 80000.0,
         "unitID" : 212,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blitzer",
@@ -83,6 +91,7 @@
         "unitCost" : 80000.0,
         "unitID" : 213,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Troll",
@@ -92,6 +101,7 @@
         "unitCost" : 110000.0,
         "unitID" : 214,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -101,6 +111,7 @@
         "unitCost" : 210000.0,
         "unitID" : 277,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -110,6 +121,7 @@
         "unitCost" : 430000.0,
         "unitID" : 333,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bomber Dribblesnot",
@@ -119,6 +131,7 @@
         "unitCost" : 60000.0,
         "unitID" : 436,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Scrappa Sorehead",
@@ -128,6 +141,7 @@
         "unitCost" : 150000.0,
         "unitID" : 437,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Urgroth Bolgrot",
@@ -137,6 +151,7 @@
         "unitCost" : 100000.0,
         "unitID" : 440,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grut Gitgobbla",
@@ -146,6 +161,7 @@
         "unitCost" : 200000.0,
         "unitID" : 441,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ripper",
@@ -155,6 +171,7 @@
         "unitCost" : 270000.0,
         "unitID" : 442,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Varag Ghoul-Chewer",
@@ -164,6 +181,7 @@
         "unitCost" : 290000.0,
         "unitID" : 443,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Whaaagh! Drummer",
@@ -173,6 +191,7 @@
         "unitCost" : 50000.0,
         "unitID" : 444,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

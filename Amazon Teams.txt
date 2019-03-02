@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 1,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 60,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 61,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Linewoman",
@@ -38,6 +41,7 @@
         "unitCost" : 50000.0,
         "unitID" : 93,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thrower",
@@ -47,6 +51,7 @@
         "unitCost" : 70000.0,
         "unitID" : 94,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Catcher",
@@ -56,6 +61,7 @@
         "unitCost" : 70000.0,
         "unitID" : 95,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blitzer",
@@ -65,6 +71,7 @@
         "unitCost" : 90000.0,
         "unitID" : 96,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -74,6 +81,7 @@
         "unitCost" : 60000.0,
         "unitID" : 97,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Helmut Wulf",
@@ -83,6 +91,7 @@
         "unitCost" : 110000.0,
         "unitID" : 287,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Willow Rosebark",
@@ -92,6 +101,7 @@
         "unitCost" : 150000.0,
         "unitID" : 288,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -101,6 +111,7 @@
         "unitCost" : 210000.0,
         "unitID" : 289,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Karla von Kill",
@@ -110,6 +121,7 @@
         "unitCost" : 220000.0,
         "unitID" : 290,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Roxanna Darknail",
@@ -119,6 +131,7 @@
         "unitCost" : 250000.0,
         "unitID" : 291,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bertha Bigfist",
@@ -128,6 +141,7 @@
         "unitCost" : 290000.0,
         "unitID" : 292,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zara the Slayer",
@@ -137,6 +151,7 @@
         "unitCost" : 270000.0,
         "unitID" : 293,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -146,6 +161,7 @@
         "unitCost" : 430000.0,
         "unitID" : 294,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

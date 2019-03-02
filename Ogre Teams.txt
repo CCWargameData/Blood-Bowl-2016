@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 20,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 41,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 80,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 70000.0,
         "unitID" : 116,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Snotling",
@@ -47,6 +51,7 @@
         "unitCost" : 20000.0,
         "unitID" : 207,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ogre",
@@ -56,6 +61,7 @@
         "unitCost" : 140000.0,
         "unitID" : 208,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -65,6 +71,7 @@
         "unitCost" : 210000.0,
         "unitID" : 276,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -74,6 +81,7 @@
         "unitCost" : 430000.0,
         "unitID" : 332,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bomber Dribblesnot",
@@ -83,6 +91,7 @@
         "unitCost" : 60000.0,
         "unitID" : 431,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Nobbla Blackwart",
@@ -92,6 +101,7 @@
         "unitCost" : 130000.0,
         "unitID" : 432,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Scrappa Sorehead",
@@ -101,6 +111,7 @@
         "unitCost" : 150000.0,
         "unitID" : 433,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bertha Bigfist",
@@ -110,6 +121,7 @@
         "unitCost" : 290000.0,
         "unitID" : 434,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Brick Far'th & Grotty",
@@ -119,6 +131,7 @@
         "unitCost" : 290000.0,
         "unitID" : 435,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

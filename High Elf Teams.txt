@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 11,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 50,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 71,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 50000.0,
         "unitID" : 107,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lineman",
@@ -47,6 +51,7 @@
         "unitCost" : 70000.0,
         "unitID" : 166,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thrower",
@@ -56,6 +61,7 @@
         "unitCost" : 90000.0,
         "unitID" : 167,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Catcher",
@@ -65,6 +71,7 @@
         "unitCost" : 90000.0,
         "unitID" : 168,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blitzer",
@@ -74,6 +81,7 @@
         "unitCost" : 100000.0,
         "unitID" : 169,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -83,6 +91,7 @@
         "unitCost" : 210000.0,
         "unitID" : 267,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -92,6 +101,7 @@
         "unitCost" : 430000.0,
         "unitID" : 325,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dolfar Longstride",
@@ -101,6 +111,7 @@
         "unitCost" : 150000.0,
         "unitID" : 379,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bo Gallante",
@@ -110,6 +121,7 @@
         "unitCost" : 160000.0,
         "unitID" : 380,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Soaren Hightower",
@@ -119,6 +131,7 @@
         "unitCost" : 180000.0,
         "unitID" : 381,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Eldril Sidewinder",
@@ -128,6 +141,7 @@
         "unitCost" : 200000.0,
         "unitID" : 382,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Prince Moranion",
@@ -137,6 +151,7 @@
         "unitCost" : 230000.0,
         "unitID" : 383,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zara the Slayer",
@@ -146,6 +161,7 @@
         "unitCost" : 270000.0,
         "unitID" : 384,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Swift Twins",
@@ -155,6 +171,7 @@
         "unitCost" : 390000.0,
         "unitID" : 385,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

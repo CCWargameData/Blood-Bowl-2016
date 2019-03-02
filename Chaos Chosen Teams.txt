@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 3,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 58,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 63,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 60000.0,
         "unitID" : 99,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Beastman",
@@ -47,6 +51,7 @@
         "unitCost" : 60000.0,
         "unitID" : 130,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Chaos Warrior",
@@ -56,6 +61,7 @@
         "unitCost" : 100000.0,
         "unitID" : 131,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Minotaur",
@@ -65,6 +71,7 @@
         "unitCost" : 150000.0,
         "unitID" : 132,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -74,6 +81,7 @@
         "unitCost" : 210000.0,
         "unitID" : 259,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Max Spleenripper",
@@ -83,6 +91,7 @@
         "unitCost" : 130000.0,
         "unitID" : 302,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lewdgrip Whiparm",
@@ -92,6 +101,7 @@
         "unitCost" : 150000.0,
         "unitID" : 303,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Brick Far'th & Grotty",
@@ -101,6 +111,7 @@
         "unitCost" : 290000.0,
         "unitID" : 304,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lord Borak the Despoiler",
@@ -110,6 +121,7 @@
         "unitCost" : 300000.0,
         "unitID" : 305,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grashnak Blackhoof",
@@ -119,6 +131,7 @@
         "unitCost" : 310000.0,
         "unitID" : 306,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -128,6 +141,7 @@
         "unitCost" : 430000.0,
         "unitID" : 307,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

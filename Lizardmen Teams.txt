@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 16,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 45,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 76,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 60000.0,
         "unitID" : 112,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Skink",
@@ -47,6 +51,7 @@
         "unitCost" : 60000.0,
         "unitID" : 189,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Saurus",
@@ -56,6 +61,7 @@
         "unitCost" : 80000.0,
         "unitID" : 190,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Kroxigor",
@@ -65,6 +71,7 @@
         "unitCost" : 140000.0,
         "unitID" : 191,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -74,6 +81,7 @@
         "unitCost" : 210000.0,
         "unitID" : 272,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -83,6 +91,7 @@
         "unitCost" : 430000.0,
         "unitID" : 329,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Helmut Wulf",
@@ -92,6 +101,7 @@
         "unitCost" : 110000.0,
         "unitID" : 409,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hemlock",
@@ -101,6 +111,7 @@
         "unitCost" : 170000.0,
         "unitID" : 410,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lottabottol",
@@ -110,6 +121,7 @@
         "unitCost" : 220000.0,
         "unitID" : 411,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Quetzal Leap",
@@ -119,6 +131,7 @@
         "unitCost" : 250000.0,
         "unitID" : 412,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Slibli",
@@ -128,6 +141,7 @@
         "unitCost" : 250000.0,
         "unitID" : 413,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

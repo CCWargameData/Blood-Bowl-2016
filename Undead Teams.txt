@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 25,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 36,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Necromancer",
@@ -29,6 +31,7 @@
         "unitCost" : 0.0,
         "unitID" : 91,
         "autoAddDictionary" : { },
+        "startingModels" : 0,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 70000.0,
         "unitID" : 121,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Skeleton",
@@ -47,6 +51,7 @@
         "unitCost" : 40000.0,
         "unitID" : 230,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zombie",
@@ -56,6 +61,7 @@
         "unitCost" : 40000.0,
         "unitID" : 231,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ghoul",
@@ -65,6 +71,7 @@
         "unitCost" : 70000.0,
         "unitID" : 232,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wights",
@@ -74,6 +81,7 @@
         "unitCost" : 90000.0,
         "unitID" : 233,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mummies",
@@ -83,6 +91,7 @@
         "unitCost" : 120000.0,
         "unitID" : 234,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -92,6 +101,7 @@
         "unitCost" : 210000.0,
         "unitID" : 281,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Sinnedbad",
@@ -101,6 +111,7 @@
         "unitCost" : 80000.0,
         "unitID" : 464,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hack Enslash",
@@ -110,6 +121,7 @@
         "unitCost" : 120000.0,
         "unitID" : 465,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "J Earlice",
@@ -119,6 +131,7 @@
         "unitCost" : 180000.0,
         "unitID" : 466,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Setekh",
@@ -128,6 +141,7 @@
         "unitCost" : 220000.0,
         "unitID" : 467,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ramtut III",
@@ -137,6 +151,7 @@
         "unitCost" : 380000.0,
         "unitID" : 468,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Count Luthor von Drakenborg",
@@ -146,6 +161,7 @@
         "unitCost" : 390000.0,
         "unitID" : 469,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

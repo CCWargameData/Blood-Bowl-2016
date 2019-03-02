@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 13,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 48,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 73,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 60000.0,
         "unitID" : 109,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ogre",
@@ -47,6 +51,7 @@
         "unitCost" : 140000.0,
         "unitID" : 175,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Retainer",
@@ -56,6 +61,7 @@
         "unitCost" : 70000.0,
         "unitID" : 176,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thrower",
@@ -65,6 +71,7 @@
         "unitCost" : 70000.0,
         "unitID" : 177,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Body Guard",
@@ -74,6 +81,7 @@
         "unitCost" : 90000.0,
         "unitID" : 178,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Princeling",
@@ -83,6 +91,7 @@
         "unitCost" : 110000.0,
         "unitID" : 179,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -92,6 +101,7 @@
         "unitCost" : 210000.0,
         "unitID" : 269,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -101,6 +111,7 @@
         "unitCost" : 430000.0,
         "unitID" : 327,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Helmut Wulf",
@@ -110,6 +121,7 @@
         "unitCost" : 110000.0,
         "unitID" : 394,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Puggy Baconbreath",
@@ -119,6 +131,7 @@
         "unitCost" : 140000.0,
         "unitID" : 395,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Heinrich von Duisgart",
@@ -128,6 +141,7 @@
         "unitCost" : 140000.0,
         "unitID" : 396,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Karla von Kill",
@@ -137,6 +151,7 @@
         "unitCost" : 220000.0,
         "unitID" : 397,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mighty Zug",
@@ -146,6 +161,7 @@
         "unitCost" : 260000.0,
         "unitID" : 398,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Zara the Slayer",
@@ -155,6 +171,7 @@
         "unitCost" : 270000.0,
         "unitID" : 399,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Griff Oberwald",
@@ -164,6 +181,7 @@
         "unitCost" : 320000.0,
         "unitID" : 400,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Master of Balistics",
@@ -173,6 +191,7 @@
         "unitCost" : 30000.0,
         "unitID" : 401,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

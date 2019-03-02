@@ -11,6 +11,7 @@
         "unitCost" : 10000.0,
         "unitID" : 26,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cheerleader",
@@ -20,6 +21,7 @@
         "unitCost" : 10000.0,
         "unitID" : 35,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Apothecary",
@@ -29,6 +31,7 @@
         "unitCost" : 50000.0,
         "unitID" : 86,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Re-roll",
@@ -38,6 +41,7 @@
         "unitCost" : 70000.0,
         "unitID" : 122,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thrall",
@@ -47,6 +51,7 @@
         "unitCost" : 40000.0,
         "unitID" : 235,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Vampire",
@@ -56,6 +61,7 @@
         "unitCost" : 110000.0,
         "unitID" : 236,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grak & Crumbleberry",
@@ -65,6 +71,7 @@
         "unitCost" : 210000.0,
         "unitID" : 282,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morg n' Thorg",
@@ -74,6 +81,7 @@
         "unitCost" : 430000.0,
         "unitID" : 337,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Count Luthor von Drakenborg",
@@ -83,6 +91,7 @@
         "unitCost" : 390000.0,
         "unitID" : 470,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Helmut Wulf",
@@ -92,6 +101,7 @@
         "unitCost" : 110000.0,
         "unitID" : 471,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Crazy Igor",
@@ -101,6 +111,7 @@
         "unitCost" : 120000.0,
         "unitID" : 472,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "J Earlice",
@@ -110,6 +121,7 @@
         "unitCost" : 180000.0,
         "unitID" : 473,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wilhelm Chaney",
@@ -119,6 +131,7 @@
         "unitCost" : 240000.0,
         "unitID" : 474,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,
